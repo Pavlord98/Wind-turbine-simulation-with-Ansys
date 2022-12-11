@@ -5,3 +5,4 @@ These simulations are a recreation of the original simulations done by Edwin Cor
 
 <h3> Some Results from Part 1 </h3>
 
+[ Pressure on the turbine](https://github.com/Pavlord98/Wind-turbine-simulation-with-Ansys/blob/main/Pressure%20on%20the%20turbine.png)
