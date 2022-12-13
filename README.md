@@ -5,4 +5,4 @@ These simulations are a recreation of the original simulations done by Edwin Cor
 
 In part 2, the pressures on the wetted areas of the blade are passed as pressure loads to ANSYS Mechanical to determine stresses and deformations on the blade.
 
-The ansys archive is too large for github so i have provided a google drive link [here](https://drive.google.com/file/d/1sSpGIuRF7XJjqYX7olfbYtqHkgZl3tbv/view?usp=sharing)
+The ansys archive is too large for github so i have provided a google drive link [here](https://drive.google.com/file/d/1sSpGIuRF7XJjqYX7olfbYtqHkgZl3tbv/view?usp=sharing).
